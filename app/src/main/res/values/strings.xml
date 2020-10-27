@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCal</string>
+    <string name="text">0</string>
+    <string name="clear">清除</string>
+</resources>
